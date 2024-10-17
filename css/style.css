@@ -1,0 +1,16 @@
+body {
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+height: 100vh;
+background-color: #f0f0f0;
+}
+#bomb {
+    width: 800px;
+    cursor: pointer;
+}
+#score {
+    font-size: 24px;
+    margin-top: 20px;
+}
